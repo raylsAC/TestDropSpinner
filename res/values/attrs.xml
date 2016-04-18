@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DropSpinner">
+		<attr name="titleText" format="string|reference" /> 
+		<attr name="titleTextColor" format="color|reference" />  
+		<attr name="titleTextSize" format="dimension|reference" />
+		<attr name="onClickArrow" format="boolean" />
+    </declare-styleable>
+</resources>

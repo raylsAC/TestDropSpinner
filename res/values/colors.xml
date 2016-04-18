@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="global_bg_color_toast">#FF1F222A</color>
+    <color name="global_red_color">#f04b4b</color>
+    
+    <color name="global_bg_color_transparent">#00000000</color>
+    <color name="global_bg_color_black_alpha2">#22000000</color>
+    <color name="global_bg_color_black_alpha3">#33000000</color>
+    <color name="global_bg_color_black_alpha4">#44000000</color>
+    <color name="global_bg_color_black_alpha8">#88000000</color>
+    <color name="global_bg_color_black">#FF000000</color>
+    <color name="global_bg_color_grey">#FF2B2F3A</color>
+    <color name="global_bg_color_grey_background">#FFF2F2F2</color>
+    <color name="global_bg_color_grey_background_less">#FFFbFbFb</color>
+    <color name="global_bg_color_grey_more">#FFd2d2d2</color>
+    <color name="global_bg_color_white">#FFFFFFFF</color>
+    <color name="global_bg_color_white_hover">#FFE1E1E1</color>
+    <color name="global_bg_color_white_alpha2">#22FFFFFF</color>
+    <color name="global_bg_color_white_alpha8">#88FFFFFF</color>
+    <color name="global_bg_color_white_alpha12">#DDFFFFFF</color>
+    <color name="global_text_color_orange">#FFf08214</color>
+    <color name="global_bg_color_red">#FFdc0000</color>
+    <color name="global_bg_color_red_tag">#FFF44B4B</color>
+    <color name="global_text_color_2">#FF262F3C</color>
+    <color name="global_text_color_white">#FFFFFFFF</color>
+    <color name="global_text_color_grey">#FF505050</color>
+    <color name="global_text_color_grey_less">#FF969696</color>
+    <color name="global_bg_color_green">#FF4BC8A0</color>
+    <color name="global_bg_color_green_more">#FF4BB8A0</color>
+    <color name="global_bg_border_color_grey">#FFC7C7C7</color>
+
+    <color name="common_empty_title_text">#FF707070</color>
+	<color name="common_empty_detail_text">#FFC1C1C1</color>
+	
+    <color name="common_title_bkg_color">#FFFFFF</color>
+    <color name="common_title_bkg_red_color">#f04b4b</color>
+    <color name="common_title_bkg_red_more_color">#fa4b4b</color>
+    <color name="common_title_separate_tab_line_color">#FFC9C9C9</color> <!-- 顶部title和tab之间的分割线色值 -->
+    <color name="common_tag_text_normal_color">#FF545454</color>
+    <color name="common_tag_text_hover_color">#FFFB6F53</color>
+    <color name="gray_divider">#FFE2E2E2</color>
+    <color name="default_caltimer_text_color">#FFEF6F53</color>
+    
+    <!-- normal -->
+    <color name="normal_red_color">#f04b4b</color>
+    <color name="normal_green_color">#0daa11</color>
+    <color name="normal_gray_color_e6">#e6e6e6</color>
+    <color name="normal_tv_color_66">#666666</color>
+    <color name="normal_tv_color_99">#999999</color>
+    <color name="normal_line_color_d6">#d6d6d6</color>
+    <color name="normal_tv_color_4c">#4c4c4c</color>
+</resources>
